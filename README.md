@@ -17,8 +17,7 @@ It is part of my HTML learning journey and showcases my understanding of basic H
 
 ## 🔍 Live Preview
 
-[🔗 View Live on GitHub Pages](https://your-github-username.github.io/elon-musk-tribute-page/)  
-*(Replace with your actual GitHub Pages link)*
+[🔗 View Live on GitHub Pages]https://rahulswain58708.github.io/Elonmusk-tribute-page/
 
 ## 🖼️ Screenshot
 <img width="1919" height="1067" alt="Elonetribute" src="https://github.com/user-attachments/assets/a7e682fb-d5b2-4dd0-a6e3-be05b2065a38" />
